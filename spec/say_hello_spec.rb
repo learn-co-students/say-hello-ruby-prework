@@ -1,3 +1,4 @@
+def say_hello
 require_relative './spec_helper'
 
 describe "say_hello" do 
